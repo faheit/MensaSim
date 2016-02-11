@@ -6,6 +6,7 @@ import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.IO;
  * @version 01.05.2015
  * Test comment for commit three
  * We should do it like this! And like This!
+ * Or like this
  */
 public class Starter {
 

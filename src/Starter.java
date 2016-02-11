@@ -4,7 +4,10 @@ import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.IO;
  * 
  * @author Fabian Heitmann
  * @version 01.05.2015
- * Test comment for commit two
+ * Test comment for commit three
+ * We should do it like this! And like This!
+ * Or like this
+ * latest changes
  */
 public class Starter {
 

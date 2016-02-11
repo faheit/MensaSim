@@ -7,6 +7,7 @@ import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.IO;
  * Test comment for commit three
  * We should do it like this! And like This!
  * Or like this
+ * latest changes
  */
 public class Starter {
 
